@@ -513,7 +513,7 @@
 
 
   .about-design {
-    margin-left: -1.4rem !important;
+    margin-left: -1rem !important;
     width: 100% !important;
     padding: 2rem 0 !important;
     height: 300px !important;
@@ -586,6 +586,7 @@
     padding: 1rem !important;
     margin: 2rem !important;
     margin-right: 5% !important;
+    margin-top: -2rem !important;
   }
 
   .newsletter .container {
